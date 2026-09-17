@@ -1,0 +1,1 @@
+- Implemented a multi-stage circuit incorporating a BC547 buffer, Common Emitter voltage amplifier and Class-AB push-pull output stage using complementary TIP41C/TIP42C power BJTs
