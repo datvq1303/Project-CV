@@ -1,1 +1,2 @@
-
+- Frequency Tuning: Integrated differential accumulation-mode MOS varactors to enable continuous voltage-controlled frequency tuning.
+- Verification of the oscillation characteristics was performed by combining time-domain SPICE simulation with FFT-based spectrum extraction.
