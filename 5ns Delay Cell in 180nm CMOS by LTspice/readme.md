@@ -1,1 +1,2 @@
-
+- Built and simulated an integrated 5ns CMOS delay circuit with an Inverter-RC-Inverter architecture in LTspice.
+- Determined appropriate RC passive values considering parasitic gate loading to match the 5ns target delay.
